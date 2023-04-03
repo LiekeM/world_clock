@@ -3,9 +3,18 @@ body {
 }
 
 h1 {
-  text-align: center;
+  margin-top: 60px;
 }
 
 footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+  background: whitesmoke;
+}
+
+.container {
   text-align: center;
 }
